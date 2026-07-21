@@ -1,2 +1,2 @@
 # my-numbers
-My Numbers is a spreadsheet for personal financial management built using Apple Numbers.
+My Numbers is a personal financial management spreadsheet built using Apple Numbers.

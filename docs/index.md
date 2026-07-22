@@ -1,6 +1,6 @@
 # my-numbers
 
-**my-numbers** is a spreadsheet that I developed to help manage my own finances. It has been a valuable tool for me. It is available for anyone to download and use.
+**my-numbers** is a spreadsheet that I developed to help manage my own finances. It has been a valuable tool for me. It is available for anyone to [download and use](https://github.com/AaronRasmussen/my-numbers/releases/download/0.1.1/my-numbers-v0.1.1.nmbtemplate).
 
 **my-numbers** uses Apple Numbers at a high level of complexity. My plan is to create a series of tutorials explaining how to use it, and a second series explaining how it was built.
 

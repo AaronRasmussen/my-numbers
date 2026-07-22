@@ -1,8 +1,8 @@
-# My Numbers
+# my-numbers
 
-***My Numbers*** is a spreadsheet that I developed to help manage my own finances. It has been a valuable tool for me. It is available for anyone to download and use.
+**my-numbers** is a spreadsheet that I developed to help manage my own finances. It has been a valuable tool for me. It is available for anyone to download and use.
 
-***My Numbers*** uses Apple Numbers at a high level of complexity. My plan is to create a series of tutorials explaining how to use it, and a second series explaining how it was built.
+**my-numbers** uses Apple Numbers at a high level of complexity. My plan is to create a series of tutorials explaining how to use it, and a second series explaining how it was built.
 
 I hope others will find it useful, and perhaps help it to grow and change.
 

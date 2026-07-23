@@ -8,9 +8,9 @@ I hope others will find it useful, and perhaps help it to grow and change.
 
 ## Features
 
-Transaction data and account information are entered in a few tables, but that data is leveraged to create a diverse range of viewing options (click [here](image-gallery.md) for the image gallery):
+Transaction data and account information are entered in a few tables, but that data is leveraged to create a diverse range of viewing options (click [here　for the　full image gallery](image-gallery)):
 
-- _Account Ledger:_ View transaction information for any account and for any period of time
+- [_Account Ledger:_](image-gallery#account-ledger) View transaction information for any account and for any period of time
 - _Budget:_ Set a monthly budget for all your spending categories and view your budget history
 - _Spending Accounts:_ Track the balance of your spending accounts (cash accounts and credit card accounts) over time
 - _Recurring Transactions:_ Track your recurring transactions and use the data to schedule transactions in the future

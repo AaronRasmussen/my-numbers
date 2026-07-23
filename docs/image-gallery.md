@@ -8,7 +8,7 @@
 
 ### Transfers Sheet {#transfers}
 
-![Screenshot of the Transfers Sheet](images/Transfers_Image_01.png)
+![Screenshot of the Transfers Sheet](images/Transfer_Ledger_Image_01.png)
 
 ### Budget Sheet {#budget}
 
